@@ -1,6 +1,3 @@
-#Assignment 4 directory
+Multithreadded HTTP server. 
 
-This directory contains source code and other files for Assignment 4.
-
-Use this README document to store notes about design, testing, and
-questions you have while developing your assignment.
+Supports Concurrent GET and PUT requests and stores results in an audit log that writes to a file atomically
